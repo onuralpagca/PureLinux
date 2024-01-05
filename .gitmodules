@@ -1,0 +1,9 @@
+[submodule "u-boot"]
+	path = u-boot
+	url = git://git.denx.de/u-boot.git
+[submodule "linux"]
+	path = linux
+	url = git://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git
+[submodule "busybox"]
+	path = busybox
+	url = git://busybox.net/busybox.git
